@@ -67,8 +67,7 @@ This project implements **Jarvis**, a customizable **Raspberry Pi–based Voice 
 ---
 
 ## ⚠️ Cons
-- 🌐 Requires internet for AI responses  
-- 🔋 High power usage if running continuously  
+  
 - 🎤 Voice recognition may misinterpret in noisy environments  
 - 🖥️ Limited by Raspberry Pi’s processing power  
 
